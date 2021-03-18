@@ -1,0 +1,36 @@
+{
+	"hotels": [
+    {
+		"id": 1,
+		"name": "Delta Hotels",
+		"city": "Toronto",
+		"country": "Canada",
+		"address": "1234 street"
+	},
+
+  {
+		"id": 2,
+		"name": "Best Western Hotels",
+		"city": "Calgary",
+		"country": "Canada",
+		"address": "7234 street"
+	},
+
+  {
+		"id": 3,
+		"name": "Sheraton Hotels",
+		"city": "Waterloo",
+		"country": "Canada",
+		"address": "1234 street"
+	},
+
+  {
+		"id": 4,
+		"name": "Hyat Hotels",
+		"city": "Kitchenr",
+		"country": "Canada",
+		"address": "1234 street"
+	}
+
+]
+}

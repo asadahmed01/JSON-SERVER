@@ -1,36 +1,35 @@
 {
-	"cities": [
-    {
-		"id": 1,
-		
-		"city": "Toronto",
-		"country": "Canada",
-		"address": "1234 street"
-	},
+	"cities": [{
+			"id": 1,
 
-  {
-		"id": 2,
-		
-		"city": "Calgary",
-		"country": "Canada",
-		"address": "7234 street"
-	},
+			"city": "Toronto",
+			"country": "Canada",
+			"address": "1234 street"
+		},
 
-  {
-		"id": 3,
-		
-		"city": "Waterloo",
-		"country": "Canada",
-		"address": "1234 street"
-	},
+		{
+			"id": 2,
 
-  {
-		"id": 4,
-		
-		"city": "Kitchenr",
-		"country": "Canada",
-		"address": "1234 street"
-	}
+			"city": "Calgary",
+			"country": "Canada",
+			"address": "7234 street"
+		},
 
-]
+		{
+			"id": 3,
+
+			"city": "Waterloo",
+			"country": "Canada",
+			"address": "1234 street"
+		},
+
+		{
+			"id": 4,
+
+			"city": "Kitchenr",
+			"country": "Canada",
+			"address": "1234 street"
+		}
+
+	]
 }
